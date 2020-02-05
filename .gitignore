@@ -8,3 +8,7 @@ __pycache__/
 # Use requirements.txt instead
 Pipfile
 Pipfile.lock
+
+# Environment variables from dotenv
+.env
+.flaskenv
